@@ -1,0 +1,4 @@
+openai>=3.14.1
+chromadb>=1.0.0
+pypdf>=6.0.0
+httpx>=0.27.2

@@ -1,0 +1,18 @@
+[
+  {
+    "question": "在QWEN模型的微调阶段，为了确保用户提示的多样性和复杂性，团队创建了什么系统？",
+    "answer": "一个包含约6600个详细标签的分类系统"
+  },
+  {
+    "question": "该模型中，层归一化技术被替换成了什么？",
+    "answer": "RMSNorm"
+  },
+  {
+    "question": "How many floors does the Yinxian Wooden Tower have?",
+    "answer": "5 floors"
+  },
+  {
+    "question": "Qwen系列模型的训练流程包含哪几个关键阶段？",
+    "answer": "Pretrain、RM、SFT、RLHF"
+  }
+]
